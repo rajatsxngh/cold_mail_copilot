@@ -1,0 +1,7 @@
+pypdf
+sentence-transformers
+pinecone
+openai>=1.0.0
+python-dotenv
+gradio
+requests

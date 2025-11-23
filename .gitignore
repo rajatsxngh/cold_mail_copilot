@@ -1,0 +1,14 @@
+# never upload secrets
+.env
+.env*
+
+# never upload virtual env
+venv/
+.venv/
+
+# python junk
+__pycache__/
+*.pyc
+
+# mac junk
+.DS_Store
